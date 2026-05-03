@@ -16,7 +16,7 @@ import (
 
 const (
 	//maxTargetsPerFping    = 100
-	defaultMinWait         = 10
+	defaultMinWait         = 1
 	startDelayMilliseconds = 1000
 )
 
